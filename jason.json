@@ -1,0 +1,36 @@
+{
+
+    "nombre": "carlos",
+    "apellido": "cuarto",
+    "edad": "24",
+    "precio": "200",
+    "pagado": "true",
+    "asiento": {
+        "numero": "13",
+        "letra": "F",
+        "cargador": "false"
+    },
+
+
+    "historial": [
+
+        {
+            "salida": "marco",
+            "destino": "polo",
+            "fecha": "10/10/12"
+
+
+        } {
+            "salida": "calorncho ",
+            "destino": "poloria",
+            "fecha": "10/10/133"
+
+
+        }
+
+
+
+
+    ]
+
+}
